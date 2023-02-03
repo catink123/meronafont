@@ -1,0 +1,9 @@
+table {
+  border-collapse: collapse;
+  margin: 5px 0;
+}
+
+table, td, tr, th, caption {
+  border-collapse: collapse;
+  border: 2px solid gray;
+}
